@@ -1,0 +1,4 @@
+venv/
+.env
+papers/
+__pycache__/
