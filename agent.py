@@ -134,7 +134,6 @@ def generate_research_ideas(
             return response.text
 
         except (
-        except (
             google_exceptions.ResourceExhausted,
             google_exceptions.ServiceUnavailable,
             google_exceptions.DeadlineExceeded,
